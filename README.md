@@ -8,7 +8,7 @@
 - Contributing to [AzerothCore](https://github.com/azerothcore) as a game tester.
 - Getting to learn a bit of HTML on the side.
 
-- 📫 How to reach me:
+- 📫 Contact Me:
     - Discord: dreadful#9999
     - Github: https://github.com/dreadfule
     - Email: xudet200@gmail.com
