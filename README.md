@@ -5,7 +5,7 @@
 😄 I'm a freelance programmer who specializes in C++, C#, LUA, Python programming.
 
 💬 Current Projects:
-- Contributing on [AzerothCore](https://github.com/azerothcore) as a game tester.
+- Contributing to [AzerothCore](https://github.com/azerothcore) as a game tester.
 - Getting to learn a bit of HTML on the side.
 
 - 📫 How to reach me:
