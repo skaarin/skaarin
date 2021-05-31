@@ -9,9 +9,7 @@
 - Getting to learn a bit of HTML on the side.
 
 - 📫 Contact Me:
-    - Discord: dreadful#9999
     - Github: https://github.com/dreadfule
-    - Email: xudet200@gmail.com
 
 <!--
 **dreadfule/dreadfule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
