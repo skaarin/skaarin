@@ -5,8 +5,11 @@
 😄 I'm a freelance programmer who specializes in C++, C#, LUA, Python programming.
 
 💬 Current Projects:
+- Flexile Multi-Tool
+
+
+💬 Old Projects:
 - Contributing to [AzerothCore](https://github.com/azerothcore) as a core developer.
-- Getting to learn a bit of HTML on the side.
 
 - 📫 Contact Me:
     - Github: https://github.com/dreadfule
