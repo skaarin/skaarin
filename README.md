@@ -1,22 +1,10 @@
-### Greetings, I'm dreadful and welcome to my github profile!
+### Greetings, I'm skaar and welcome to my github profile!
 
-<a href="https://github.com/dreadfule/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dreadfule&count_private=true&show_icons=true&hide=contribs&theme=vue-dark " />
+<a href="https://github.com/skaarin/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=skaarin&count_private=true&show_icons=true&hide=contribs&theme=vue-dark " />
 </a>
 
-### Here is an insight of what I do and what I'm currently working on!
-
 😄 I'm a freelance programmer who specializes in C++, C#, LUA, Python programming.
-
-💬 Current Projects:
-- A secret :)
-
-
-💬 Old Projects:
-- Contributing to [AzerothCore](https://github.com/azerothcore) as a core developer.
-
-- 📫 Contact Me:
-    - Github: https://github.com/dreadfule
 
 <!--
 **dreadfule/dreadfule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
